@@ -12,9 +12,4 @@
         <InvariantGlobalization>true</InvariantGlobalization>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     </PropertyGroup>
-
-    <ItemGroup>
-      <ClCompile Include="refrence.c" />
-    </ItemGroup>
-
 </Project>
